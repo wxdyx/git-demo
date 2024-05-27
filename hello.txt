@@ -20,4 +20,4 @@ hello dyx! hello git!
 hello dyx! hello git!
 hello dyx! hello git!
 hello dyx! hello git! master test
-hello dyx! hello git!
+hello dyx! hello git! hot-fix test
